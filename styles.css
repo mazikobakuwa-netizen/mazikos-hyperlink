@@ -1,0 +1,57 @@
+body{
+font-family: Georgia, "Times New Roman", serif;
+background-color: #f6f2e8;
+margin: 0;
+padding: 0;
+line-height: 1.6;
+}
+
+background-image:url("https://www.transparenttextures.com/patterns/paper.png");
+
+nav{
+	background-color: #7a4b2a;
+	padding: 12px;
+	text-align: center;
+}
+
+nav a{
+	color: white;
+	text-decoration: none;
+	margin: 10px;
+	font-weight: bold;
+}
+
+nav a: hover{
+	text-decoration: underline;
+}
+
+div{
+	max-width: 800px;
+	margin: 40px auto;
+	background-color: #fffdf7;
+	padding: 30px;
+	border-radius: 6px;
+	box-shadow: 0 0  10px rgba(0,0,0,0,1);
+}
+
+h1{
+text-align: center;
+color: #5a2f14;
+}
+
+h2{
+color:#7a4b2a;
+}
+
+
+a{
+color: #b45f06;	
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+ul{
+	margin-text: 25px;
+}
